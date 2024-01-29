@@ -17,7 +17,7 @@ Beside's developing stuff, I enjoy listening music ðŸŽ§ , software development ð
   <img align="left" alt="Shahbaz Shabbir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/Shahbazshabbircsengr">
-  <img align="left" alt="Shahbaz Shabbir | Facebook" width="22px" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.svg" />
+  <img align="left" alt="Shahbaz Shabbir | Facebook" width="22px" src="https://github.com/Shahbaz-Shabbir/Shahbaz-Shabbir/blob/master/fb.svg" />
 </a>
 <a href="https://codechef.com/users/Shahbaz-Shabbir">
   <img align="left" alt="Shahbaz Shabbir | Codechef" width="22px" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" />
