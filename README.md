@@ -1,8 +1,8 @@
 ### Hey 👋, I'M [Shahbaz Shabbir!](https://Shahbaz-Shabbir.github.io/Shahbaz-Shabbir/)
 
-I'm a Full Stack developer 🚀 from Pakistan, Currently working as Software Development Engineer [@Mazkab Group Of Companies](https://mazkab.pk/) 
+I'm a Full Stack developer 🚀 from Pakistan, Currently working as Software Development Engineer [@Sharplite Solutions Technology](http://www.sharplite.com/) 
 
-Beside's developing stuff, I enjoy listening music 🎧 , software development 🏏 and travelling 🏝️🗻.
+Beside's developing stuff, I enjoy listening music 🎧 and travelling 🏝️🗻.
 
 📫 Feel free to reach out to me.
 
@@ -46,5 +46,7 @@ Beside's developing stuff, I enjoy listening music 🎧 , software development �
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![Shahbaz Shabbir github stats](https://github-readme-stats.vercel.app/api?username=Shahbaz-Shabbir&show_icons=true&hide_border=true)
