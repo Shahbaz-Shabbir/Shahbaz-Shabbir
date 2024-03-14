@@ -50,7 +50,14 @@ Beside's developing stuff, I enjoy listening music 🎧 and travelling 🏝️�
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
+**How I learn Programming Languages and Tools:**
+    By reading documentations, watching videos, doing things, reading blogs and practicing. I have almost 7 years of experience in programming.
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![Shahbaz Shabbir github stats](https://github-readme-stats.vercel.app/api?username=Shahbaz-Shabbir&show_icons=true&hide_border=true)
+
+
+                               Shahbaz Shabbir (Computer Software Engineer)
+
