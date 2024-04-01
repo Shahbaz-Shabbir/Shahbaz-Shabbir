@@ -12,16 +12,16 @@ Beside's developing stuff, I enjoy listening music 🎧 and travelling 🏝️�
 
 <br />
 <a href="https://twitter.com/Shahbaz-Shabbir">
-  <img align="left" alt="Shahbaz Shabbir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Shahbaz Shabbir | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)" />
 </a>
 <a href="https://www.linkedin.com/in/Shahbaz-Shabbir">
-  <img align="left" alt="Shahbaz Shabbir | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Shahbaz Shabbir | LinkdeIN" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" />
 </a>
 <a href="https://www.instagram.com/Shahbaz-Shabbir">
-  <img align="left" alt="Shahbaz Shabbir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Shahbaz Shabbir | Instagram" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)" />
 </a>
 <a href="https://www.facebook.com/Shahbazshabbircsengr">
-  <img align="left" alt="Shahbaz Shabbir | Facebook" width="22px" src="https://github.com/Shahbaz-Shabbir/Shahbaz-Shabbir/blob/master/fb.svg" />
+  <img align="left" alt="Shahbaz Shabbir | Facebook" width="22px" src="[https://github.com/Shahbaz-Shabbir/Shahbaz-Shabbir/blob/master/fb.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)" />
 </a>
 <a href="https://codechef.com/users/Shahbaz-Shabbir">
   <img align="left" alt="Shahbaz Shabbir | Codechef" width="22px" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" />
