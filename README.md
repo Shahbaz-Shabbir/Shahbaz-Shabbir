@@ -14,7 +14,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and travelling 🏝️�
 <a href="https://www.facebook.com/Shahbazshabbircsengr">
   <img align="left" alt="Shahbaz Shabbir | Facebook" width="22px" src="https://github.com/Shahbaz-Shabbir/Shahbaz-Shabbir/blob/master/logo/facebook.svg" />
 </a>
-<a href="https://pk.linkedin.com/in/shahbaz-shabbir-9b8a791a2">
+<a href="https://pk.linkedin.com/in/shahbaz-shabbir-cs">
   <img align="left" alt="Shahbaz Shabbir | LinkdeIN" width="22px" src="https://github.com/Shahbaz-Shabbir/Shahbaz-Shabbir/blob/master/logo/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/Shahbaz-Shabbir">
