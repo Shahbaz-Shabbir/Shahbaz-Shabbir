@@ -1,6 +1,6 @@
 ### Hey 👋, I'M [Shahbaz Shabbir!](https://Shahbaz-Shabbir.github.io/Shahbaz-Shabbir/)
 
-I'm a Full Stack developer 🚀 from Pakistan, Currently working as Software Development Engineer [@Sharplite Solutions Technology](http://www.sharplite.com/) 
+I'm a Full Stack developer 🚀 from Pakistan, Currently working as Software Development Engineer [@Zerobit Technology](http://www.zerobit.com/) 
 
 Beside's developing stuff, I enjoy listening music 🎧 and travelling 🏝️🗻.
 
