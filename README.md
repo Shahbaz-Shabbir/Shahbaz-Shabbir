@@ -26,9 +26,6 @@ Beside's developing stuff, I enjoy listening music 🎧 and travelling 🏝️�
 <a href="https://codechef.com/users/Shahbaz-Shabbir">
   <img align="left" alt="Shahbaz Shabbir | Codechef" width="22px" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" />
 </a>
-<a href="https://www.stopstalk.com/user/profile/Shahbaz-Shabbir">
-  <img align="left" alt="Shahbaz Shabbir | Stopstalk" width="22px" src="https://www.stopstalk.com/stopstalk/static/images/fav_assets/android-icon-192x192.png?_rev=20200425190226" />
-</a>
 <br />
 
 &nbsp;
